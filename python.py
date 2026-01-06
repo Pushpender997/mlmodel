@@ -1,4 +1,3 @@
-# print("Hello Aman")
 #Model_1:--
 import pandas as pd 
 Light_sales={
